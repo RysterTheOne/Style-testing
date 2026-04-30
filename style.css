@@ -47,6 +47,7 @@ body {
     width: 90%;
     min-height: 20%;
 
+    display: flex;
     justify-content: center;
 
     background: rgba(55, 82, 126, 0.85);
