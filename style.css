@@ -70,6 +70,7 @@ body {
 
 .content-rows {
     height: calc(72.25vh - 20px);
+    justify-content: center;
     max-width: 50%;
     width: 50%;
 }
@@ -79,8 +80,8 @@ body {
     max-width: 80%;
     width: 80%;
     height: calc((72.25vh - 20px)*10/100);
-    margin-top: calc((72.25vh - 20px)*2/100);
-    margin-bottom: calc((72.25vh - 20px)*2/100);
+    margin-top: calc((72.25vh - 20px)*4/100);
+    margin-bottom: calc((72.25vh - 20px)*4/100);
 
     background: rgba(55, 82, 126, 0.85);
     backdrop-filter: blur(10px);
