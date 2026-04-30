@@ -60,7 +60,7 @@ body {
 }
 
 .content-columns {
-    min-height: 70%;
+    height: 75%;
     width: 100%;
     display: flex;
 }
