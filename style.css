@@ -52,7 +52,9 @@ body {
     height: 100%;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 
     background: rgba(55, 82, 126, 0.85);
     backdrop-filter: blur(10px);
