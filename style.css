@@ -62,7 +62,7 @@ body {
 .content-columns {
     height: 75%;
     width: 100%;
-    display: flex;
+    display: block;
 }
 
 .content-rows {
