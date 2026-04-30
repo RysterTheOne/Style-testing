@@ -70,6 +70,7 @@ body {
 
 .content-rows {
     height: calc(72.25vh - 20px);
+    display: flex;
     justify-content: center;
     max-width: 50%;
     width: 50%;
