@@ -62,7 +62,6 @@ body {
 .content-columns {
     min-height: 70%;
     width: 100%;
-    display: flex;
 }
 
 .content-rows {
@@ -70,14 +69,16 @@ body {
     justify-content: center;
     min-height: 100%;
     max-width: 50%;
+    width: 50%;
 }
 
 .labels {
     text-align: center;
     max-width: 80%;
+    width: 80%;
     min-height: 10%;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 
     background: rgba(55, 82, 126, 0.85);
     backdrop-filter: blur(10px);
@@ -90,6 +91,7 @@ body {
 .inputs {
     text-align: center;
     max-width: 80%;
+    width: 80%;
     min-height: 10%;
     margin-top: 1%;
     margin-bottom: 1%;
